@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=2D5A27&fontColor=FDF6E3&height=180&text=worklog&fontSize=45&fontAlignY=42&desc=%E3%82%BD%E3%83%AD%E8%B5%B7%E6%A5%AD%E5%AE%B6%E5%90%91%E3%81%91%E6%97%A5%E6%AC%A1%E3%82%A2%E3%82%AF%E3%83%86%E3%82%A3%E3%83%93%E3%83%86%E3%82%A3%E9%9B%86%E8%A8%88%E3%83%84%E3%83%BC%E3%83%AB&descSize=16&descAlignY=62&descAlign=center&animation=fadeIn" alt="worklog header" />
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0F172A&fontColor=38BDF8&height=200&text=worklog&fontSize=50&fontAlignY=42&desc=%E3%82%BD%E3%83%AD%E8%B5%B7%E6%A5%AD%E5%AE%B6%E5%90%91%E3%81%91%E6%97%A5%E6%AC%A1%E3%82%A2%E3%82%AF%E3%83%86%E3%82%A3%E3%83%93%E3%83%86%E3%82%A3%E9%9B%86%E8%A8%88%E3%83%84%E3%83%BC%E3%83%AB&descSize=16&descAlignY=62&descColor=94A3B8&animation=fadeIn&sectionHeader=false" alt="worklog header" />
 </p>
 
 <p align="center">

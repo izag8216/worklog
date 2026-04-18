@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=2D5A27&fontColor=FDF6E3&height=180&text=worklog&fontSize=45&fontAlignY=42&desc=Daily%20Activity%20Aggregator%20for%20Solopreneurs&descSize=18&descAlignY=62&descAlign=center&animation=fadeIn" alt="worklog header" />
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0F172A&fontColor=38BDF8&height=200&text=worklog&fontSize=50&fontAlignY=42&desc=Daily%20Activity%20Aggregator%20for%20Solopreneurs&descSize=16&descAlignY=62&descColor=94A3B8&animation=fadeIn&sectionHeader=false" alt="worklog header" />
 </p>
 
 <p align="center">
